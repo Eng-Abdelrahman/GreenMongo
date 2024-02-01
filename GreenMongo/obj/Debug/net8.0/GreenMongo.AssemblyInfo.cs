@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenMongo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6981935ec13fd2c81a7c1323831022197f765ce6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenMongo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenMongo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
